@@ -18,6 +18,7 @@ public class HealthController {
 	public final HealthService healthService;
 
 	public HealthController(HealthService healthService) {
+
 		this.healthService = healthService;
 	}
 
