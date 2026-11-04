@@ -1,5 +1,7 @@
 package com.shahid.gatekeeper.management.dto.responseDto;
 
+import com.shahid.gatekeeper.management.entity.Organization;
+import com.shahid.gatekeeper.management.entity.OrganizationStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
