@@ -23,7 +23,7 @@ public class PlatformOrganizationController {
         this.organizationService = organizationService;
     }
 
-    // CRUD --> Organiztions
+    // CRUD --> Organizations
 
     @PostMapping
     public ResponseEntity<OrganizationResponse> create(
