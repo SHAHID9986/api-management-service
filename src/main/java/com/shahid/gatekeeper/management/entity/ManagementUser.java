@@ -27,7 +27,8 @@ public class ManagementUser {
     private String username;
     private String passwordHash;
     private boolean enabled;
-    private boolean createdAt;
-    private LocalDateTime updateAt;
+    private LocalDateTime createdAt;
+    private LocalDateTime updatedAt;
+
 
 }
